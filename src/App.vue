@@ -9,7 +9,7 @@
     <p class="text-h6 text-md-h5 text-lg-h4 ml-4"> Aidentist: X-ray Classifier</p>
     
     </v-app-bar> -->
-    <v-card elavation="2" color="primary" class="pa-2" height="90" dark>
+    <v-card elavation="2" color="black" class="pa-2" height="90" dark>
       <div class="mt-4 ml-4">
       <v-row>
         <img src="./assets/AI DENTIST LOGO.jpg" alt="" srcset="" width="60" height="60" class="mb-0">
